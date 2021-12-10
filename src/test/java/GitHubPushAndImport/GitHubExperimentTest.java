@@ -1,7 +1,7 @@
 package GitHubPushAndImport;
 import org.testng.annotations.Test;
 
-public class GitHubExperiment {
+public class GitHubExperimentTest {
 	
 		@Test
 		
@@ -9,6 +9,7 @@ public class GitHubExperiment {
 		
 		{
 			System.out.println("My first git Hub Script 1");
+			System.out.println("My Second git Hub Script 2");
 		}
 	}
 
