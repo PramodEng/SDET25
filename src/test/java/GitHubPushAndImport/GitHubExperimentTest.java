@@ -10,6 +10,7 @@ public class GitHubExperimentTest {
 		{
 			System.out.println("My first git Hub Script 1");
 			System.out.println("My Second git Hub Script 2");
+			System.out.println("3rd Script");
 		}
 	}
 
