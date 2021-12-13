@@ -1,7 +1,7 @@
 package GitHubPushAndImport;
 import org.testng.annotations.Test;
 
-public class GitHubExperimentTest {
+public class GitHubExperiment {
 	
 		@Test
 		
